@@ -1,23 +1,18 @@
 {
-  "name": "fuzzysearch",
+  "name": "test",
   "description": "Tiny and blazing-fast fuzzy search in JavaScript",
   "version": "1.0.3",
-  "homepage": "https://github.com/bevacqua/fuzzysearch",
+  "homepage": "https://github.com/dbaranid/number",
   "author": {
-    "name": "Nicolas Bevacqua",
-    "email": "ng@bevacqua.io",
-    "url": "http://bevacqua.io"
+    "name": "Barani",
+    "email": "dbaranid@gmail.com",
+    "url": ""
   },
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/bevacqua/fuzzysearch.git"
-  },
+  
   "scripts": {
     "test": "jshint . && tape test/*.js"
   },
   "devDependencies": {
-    "jshint": "^2.6.0",
-    "tape": "^3.5.0"
+    "jshint": "^2.6.0"
   }
 }
