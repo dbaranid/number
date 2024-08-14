@@ -1,0 +1,118 @@
+From:	Baranidharan D
+Sent:	12 August 2024 18:14
+To:	Sarvaraya Narayya Durga
+Subject:	Re: concern
+
+Hi Naari,
+
+Looking forward for the response from you on this email. Please let me know if I need to 
+include anyone else in the loop. 
+
+Please share the roles and responsibilities discussed last week in an email so that we can 
+use that as reference for discussions.
+
+It's only 6 weeks and with no major contribution yet from my side (as the client says so), 
+there isn't any transition I would have to do to my replacement.
+
+With the given roles and responsibilities and the existing work environment and the existing 
+team, I want to discontinue from this project immediately as it doesn't align with my ways 
+of working and the work ethics. And as you too suggest last week that if required you will 
+find a replacement for me for this project if roles don't match, please let's go ahead with 
+that plan.
+
+I don't see any learnings and any constructive work I can do being in this project.
+
+Today, I spoke to team members individually and have started delegating tasks including 
+KT documentation and estimation to the respective responsible leads. I sent an email with 
+next steps and did not attend any meetings today.
+
+Please let me know when this will be conveyed to the client, requesting you to release me 
+as soon as possible.
+
+Also, I will not be able to be work after 6 pm for next few weeks due to some personal 
+family commitments,  I will login early to meet the required hours.
+
+Thanks,
+Barani
+ 
+From: Baranidharan D 
+Sent: Friday, August 9, 2024 10:29:47 PM 
+To: Sarvaraya Narayya Durga <narayyas@maveric-systems.com> 
+Subject: concern 
+ 
+Hi Nari,
+
+ 
+We need to urgently address some critical issues regarding my current involvement in the 
+Numeracle project. Given the severity of these concerns, I request an immediate 
+reassignment to another project.
+ 
+1.	After six weeks on this project, I find myself stuck in daily transactional tasks with 
+no sign of meaningful engagement or professional growth. This situation doesn’t 
+look right and is not aligned with my career goals or the expectations I had for this 
+role.
+ 
+2.	My role was initially defined as supporting the Numeracle development team to 
+enhance their engineering skills. However, I’ve been thrust into a dev lead, BA, and 
+project manager role, all at once. This shift, combined with a team that is visibly 
+unmotivated and a client more focused on just getting things done—regardless of 
+the team’s well-being—has made this role increasingly unmanageable and 
+demoralizing.
+ 
+3.	The client has also expected me to step in and complete developers' work if they 
+were unable to meet deadlines. I don’t want to work that way, as doing so would 
+undermine the developers by making them feel they have a backup, which could 
+discourage accountability and growth. I have done a small POC myself before 
+handing over to the developer. Have written a good amount of Junits and shared 
+with the developer as the initial step for their learning.
+ 
+4.	I’ve been tasked with overseeing design and delivery while being explicitly advised 
+not to rely on the team members. This approach is fundamentally flawed. Without 
+empowering the team with accountability and broader exposure, the project is very 
+close to becoming a bottleneck centred on one person, making it highly vulnerable 
+to failure.
+ 
+5.	The recent management change has demoralized the team, with several members 
+already considering their exit. The environment is one of disengagement and team is 
+reluctant to contribute, which is not good. Requirements doesn’t come clearly from 
+once source and lot of changes will have to be made after a good amount of 
+development which is also fine but the questions that are asked of why it was 
+implemented in a particular way is not going well with the team. Instead a concrete 
+once source of requirement before the start of development is the best way to go. 
+No proper backlog of tech stories with details.
+ 
+6.	The work environment is rough, with discussions consistently one-sided. The lack of 
+interest from the team in learning or taking proactive steps has restricted adopting 
+new changes and made it nearly impossible to drive progress in engineering 
+perspective.
+ 
+7.	I am being asked to sign off on knowledge transfer (KT) and documentation, despite 
+clear disinterest from the team and no interest from the management to make the 
+team responsible. Given my limited understanding of the product and code, I 
+cannot in good conscience sign off without commitment from all involved.
+ 
+8.	The client manager demonstrates a complete lack of transparency and belief in the 
+team members' capabilities, including seniors with 9 to 15 years of experience. This 
+absence of respect and trust is demoralizing and is severely restricting the project’s 
+potential for success, creating an environment filled with uncertainty and 
+frustration.
+ 
+9.	In my previous client project at Maveric, I was assured that my next role would align 
+with my designation. Despite not raising concerns in the past, the current 
+circumstances have pushed me to a point where I cannot maintain any motivation 
+or satisfaction in this role.
+ 
+Given the critical nature of these issues, I strongly urge an immediate reassignment to a 
+project that aligns with my role and expertise. Continuing in this environment is not only 
+unproductive but also detrimental to my professional growth and well-being.
+ 
+Thank you for your attention to this matter. I look forward to discussing this in person next 
+week.
+ 
+Thank you, 
+Barani
+ 
+ 
+ 
+
+ 
